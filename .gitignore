@@ -3,6 +3,10 @@
 
 \[01\]_model_creation_and_train/model/
 
+\[03\]_first_exercise/data
+\[03\]_first_exercise/data/PetImages
+\[03\]_first_exercise/model
+
 *.pth
 
 .vscode

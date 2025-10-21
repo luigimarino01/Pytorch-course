@@ -26,6 +26,7 @@ Struttura attuale (soggetta a modifiche):
 - `[00]_dataset_and_dataloader/` – Esplorazione di Dataset e DataLoader
 - `[01]_model_creation_and_train/` – Creazione e addestramento di reti neurali
 - `[02]_model_loading_and_inference/` – Caricamento di modelli addestrati e inferenza
+- `[03]_first_exercise/` - Esercizio che combina i tre tutorial precedenti
 
 > Ogni cartella contiene un **Jupyter Notebook** e uno script `main.py`.
 > Dataset e modelli salvati sono ignorati da git (`data/` e `model/`) per mantenere leggero il repository.
@@ -67,11 +68,12 @@ python <script_name>.py
 ### Punti Chiave
 
 - API di PyTorch Dataset e DataLoader
-- Creazione di dataset personalizzati
-- Costruzione e addestramento di reti neurali feedforward
-- Uso di funzioni di perdita e ottimizzatori (SGD / Adam)
-- Valutazione dei modelli e visualizzazione delle predizioni
+- Creazione di **dataset personalizzati**
+- Costruzione e addestramento di **reti neurali feedforward**
+- Uso di **funzioni di perdita** e **ottimizzatori** (`SGD` / `Adam`)
+- Valutazione dei modelli e **visualizzazione delle predizioni**
 - Salvataggio e caricamento dei pesi dei modelli per inferenza
+- Costruzione di **reti neurali convoluzionali**
 
 ---
 

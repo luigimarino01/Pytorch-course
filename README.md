@@ -26,6 +26,7 @@ Current structure (subject to updates):
 - `[00]_dataset_and_dataloader/` – Dataset & DataLoader exploration
 - `[01]_model_creation_and_train/` – Neural network creation & training
 - `[02]_model_loading_and_inference/` – Loading trained models & inference
+- `[03]_first_exercise/` - Consolidates the previous three tutorials
 
 > Each folder contains a **Jupyter Notebook** and a `main.py` script.  
 > Datasets and saved models are gitignored (`data/` and `model/` folders) to keep the repository light.
@@ -78,6 +79,7 @@ python <script_name>.py
 - Using **loss functions** and **optimizers** (`SGD` / `Adam`)
 - Evaluating models and **visualizing predictions**
 - Saving and loading model weights for inference
+- Building and training **convolutional neural networks**
 
 ---
 
