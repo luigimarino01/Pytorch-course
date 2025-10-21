@@ -1,0 +1,8 @@
+\[01\]_model_creation_and_train/data/
+\[02\]_model_loading_and_inference/data/
+
+\[01\]_model_creation_and_train/model/
+
+*.pth
+
+.vscode
